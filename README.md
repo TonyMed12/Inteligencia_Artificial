@@ -32,6 +32,13 @@ Inteligencia Artificial en el Instituto Tecnológico de Morelia.
 - `generar_reporte_cnn.py` – genera las tablas del reporte de comparación a partir
   de los resultados de cada corrida.
 
+### Modelos generativos y fine-tuning
+- `modelos_texto_imagen.md` (23 de noviembre) – investigación de modelos que pueden generar
+  imágenes con texto (GPT Image, Qwen-Image, FLUX.2, Stable Diffusion 3, entre otros) y
+  estructura del dataset para ajustarlos con LoRA.
+- `dataset_lora_medina.md` y `corpus_3i_atlas.csv` (23 de noviembre) – estructura y formato
+  de un dataset para hacer fine-tuning de un modelo de lenguaje con LoRA.
+
 ### Datos y evaluaciones
 - `reporte_dino_crash_eda.md` – análisis exploratorio de datos (Operación Dino Crash).
 - `EvaluacionIA_03-11.md` – examen teórico de perceptrón, MLP y CNN.
