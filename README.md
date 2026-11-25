@@ -26,6 +26,11 @@ Inteligencia Artificial en el Instituto Tecnológico de Morelia.
 - `EvaluacionCNN-Avance_28Oct.md` – preguntas sobre redes convolucionales.
 - `reconocimiento/comparación.md` – Eigenfaces, Fisherfaces y LBPH frente a CNN en
   reconocimiento facial con OpenCV.
+- `ComparacionCNN_deportes.md` (27 de octubre) – comparación de seis corridas de una CNN que clasifica
+  10 deportes (épocas, filtros, dropout y bloques de convolución), con gráficas de
+  entrenamiento y matrices de confusión en `images/cnn/` y reportes en `reportes/`.
+- `generar_reporte_cnn.py` – genera las tablas del reporte de comparación a partir
+  de los resultados de cada corrida.
 
 ### Datos y evaluaciones
 - `reporte_dino_crash_eda.md` – análisis exploratorio de datos (Operación Dino Crash).

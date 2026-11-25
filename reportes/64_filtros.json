@@ -1,0 +1,75 @@
+{
+  "americano": {
+    "precision": 0.9808102345415778,
+    "recall": 0.992984349703184,
+    "f1-score": 0.9868597479216948,
+    "support": 1853.0
+  },
+  "basket": {
+    "precision": 0.9977051061388411,
+    "recall": 0.9931467732724157,
+    "f1-score": 0.9954207212364052,
+    "support": 1751.0
+  },
+  "beisball": {
+    "precision": 0.9979973297730307,
+    "recall": 0.9973315543695798,
+    "f1-score": 0.9976643309976644,
+    "support": 1499.0
+  },
+  "boxeo": {
+    "precision": 0.998589562764457,
+    "recall": 1.0,
+    "f1-score": 0.9992942836979535,
+    "support": 1416.0
+  },
+  "ciclismo": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1391.0
+  },
+  "f1": {
+    "precision": 0.9989888776541962,
+    "recall": 0.988988988988989,
+    "f1-score": 0.993963782696177,
+    "support": 999.0
+  },
+  "futbol": {
+    "precision": 0.9993234100135318,
+    "recall": 0.9986477349560514,
+    "f1-score": 0.9989854582346973,
+    "support": 1479.0
+  },
+  "golf": {
+    "precision": 0.9927760577915377,
+    "recall": 0.9907312049433573,
+    "f1-score": 0.9917525773195877,
+    "support": 1942.0
+  },
+  "natacion": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1028.0
+  },
+  "tenis": {
+    "precision": 1.0,
+    "recall": 0.9994019138755981,
+    "f1-score": 0.9997008674842955,
+    "support": 1672.0
+  },
+  "accuracy": 0.9959414504324684,
+  "macro avg": {
+    "precision": 0.9966190578677171,
+    "recall": 0.9961232520109174,
+    "f1-score": 0.9963641769588476,
+    "support": 15030.0
+  },
+  "weighted avg": {
+    "precision": 0.9959670086544657,
+    "recall": 0.9959414504324684,
+    "f1-score": 0.9959471058480789,
+    "support": 15030.0
+  }
+}
