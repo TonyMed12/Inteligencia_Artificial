@@ -35,4 +35,7 @@ Inteligencia Artificial en el Instituto Tecnológico de Morelia.
 ### Datos y evaluaciones
 - `reporte_dino_crash_eda.md` – análisis exploratorio de datos (Operación Dino Crash).
 - `EvaluacionIA_03-11.md` – examen teórico de perceptrón, MLP y CNN.
+- `ComparacionIAs_EleccionImposible.md` (23 de noviembre) – comparación de cuatro IAs
+  (qwen3.5:4b, gemma3:4b y smollm2:1.7b con Ollama, y Claude) resolviendo el caso
+  "La elección imposible", calificadas pregunta por pregunta contra la solución.
 
